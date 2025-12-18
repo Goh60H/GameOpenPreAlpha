@@ -1,6 +1,7 @@
 # GameOpenPreAlpha
 
 This repository contains a **pre-alpha build** of a turn-based, hex-grid dungeon crawler currently under development.
+
 Download link: https://drive.google.com/file/d/1GLRfu3dPuhFQxbtAy2nJ7WAKiNeDp__h/view?usp=sharing
 
 ---
@@ -85,4 +86,5 @@ This is a **pre-alpha** version:
 - Bugs and rough edges are expected
 
 Feedback and testing are welcome.
+
 If you have anithing you would like to share with the developer please, contact him using this e-mail address: rpgdevcontact@gmail.com
