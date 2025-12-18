@@ -87,4 +87,4 @@ This is a **pre-alpha** version:
 
 Feedback and testing are welcome.
 
-If you have anithing you would like to share with the developer please, contact him using this e-mail address: rpgdevcontact@gmail.com
+If you have anything you would like to share with the developer please, contact him using this e-mail address: rpgdevcontact@gmail.com
