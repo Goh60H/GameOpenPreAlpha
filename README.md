@@ -4,6 +4,10 @@ This repository contains a **pre-alpha build** of a turn-based, hex-grid dungeon
 
 Download link: https://drive.google.com/file/d/1GLRfu3dPuhFQxbtAy2nJ7WAKiNeDp__h/view?usp=sharing
 
+⚠️ **Note:** 
+
+This build has only been cooked for Windows, so it will run exclusively on that operating system.
+
 ---
 
 ## ▶️ How to Run
