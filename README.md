@@ -65,7 +65,7 @@ Upon dying, the player may restart the game on a **newly generated map**, facing
 - Ranged attack  
 - Cannot be used at melee range  
 - Cannot pass through walls  
-- Consumes **energy**  
+- Consumes **stamina**  
 
 ⚠️ The character does not currently have a bow equipped, so the animation is incorrect.  
 This ability is included so it can already be tested. The correct animation is the one used by the enemies wielding a bow.
