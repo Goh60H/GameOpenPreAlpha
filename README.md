@@ -52,6 +52,8 @@ Upon dying, the player may restart the game on a **newly generated map**, facing
 - **Left Click**: Select a hexagon to choose movement direction
 - **1, 2, 3, 4**: Use abilities (see below)
 - **Spacebar**: End your turn
+- **Middle mouse button (hold and move)**: Rotate the camera
+- **Middle mouse button (use the wheel)**: Get closer or further
 
 ---
 
