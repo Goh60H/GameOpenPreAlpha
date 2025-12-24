@@ -54,6 +54,7 @@ Upon dying, the player may restart the game on a **newly generated map**, facing
 - **Spacebar**: End your turn
 - **Middle mouse button (hold and move)**: Rotate the camera
 - **Middle mouse button (use the wheel)**: Get closer or further
+- **A, W, S, D**: Moves the camera
 
 ---
 
