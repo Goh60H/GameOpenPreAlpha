@@ -5,7 +5,7 @@ This repository contains a **pre-alpha build** of a turn-based, hex-grid dungeon
 Download links: 
 | Version | Windows | macOS | Linux |
 |---------|---------|-------|-------|
-| v0.0.2  | [Download](-) | [Download](-) | [Download](-) |
+| v0.0.2  | - | - | - |
 | v0.0.1  | - | [Download](https://drive.google.com/file/d/1GLRfu3dPuhFQxbtAy2nJ7WAKiNeDp__h/view?usp=sharing) | - |
 
 ⚠️ **Note:** 
