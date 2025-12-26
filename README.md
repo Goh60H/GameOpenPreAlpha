@@ -10,7 +10,9 @@ Download links:
 
 ⚠️ **Note:** 
 
-This build has only been cooked for Windows, so it will run exclusively on that operating system.
+This game has only been tested on Windows, for it is the operating system I use when developing. 
+
+If a version does not work on any operating system, I kindly request to have an e-mail sent to rpgdevcontact@gmail.com. I thank your cooperation in advance.
 
 ---
 
