@@ -6,7 +6,7 @@ Download links:
 | Version | Windows | macOS | Linux |
 |---------|---------|-------|-------|
 | v0.0.2  | [Download](-) | [Download](-) | [Download](-) |
-| v0.0.1  | [Download](-) | [Download](https://drive.google.com/file/d/1GLRfu3dPuhFQxbtAy2nJ7WAKiNeDp__h/view?usp=sharing) | [Download](-) |
+| v0.0.1  | - | [Download](https://drive.google.com/file/d/1GLRfu3dPuhFQxbtAy2nJ7WAKiNeDp__h/view?usp=sharing) | - |
 
 ⚠️ **Note:** 
 
