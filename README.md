@@ -10,7 +10,7 @@ Download links:
 
 ⚠️ **Note:** 
 
-This game has only been tested on Windows, for it is the operating system I use when developing. 
+For now, this game has only been tested on Windows, for it is the operating system I use when developing. 
 
 If a version does not work on any operating system, I kindly request to have an e-mail sent to rpgdevcontact@gmail.com. I thank your cooperation in advance.
 
