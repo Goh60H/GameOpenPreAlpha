@@ -3,10 +3,10 @@
 This repository contains a **pre-alpha build** of a turn-based, hex-grid dungeon crawler currently under development.
 
 Download links: 
-| Version | Windows | Linux |
-|---------|-------|-------|
-| v0.0.2  | - | - |
-| v0.0.1  | [Download](https://drive.google.com/file/d/1GLRfu3dPuhFQxbtAy2nJ7WAKiNeDp__h/view?usp=sharing) | - |
+| Version | Windows | Linux | MacOS |
+|---------|-------|-------|-------|
+| v0.0.2  | [Link](https://drive.google.com/file/d/1ADRjCEMtYoGUbb_0LA7Yqpcp_rNXZdHH/view?usp=sharing) | - |- |
+| v0.0.1  | [Link](https://drive.google.com/file/d/1GLRfu3dPuhFQxbtAy2nJ7WAKiNeDp__h/view?usp=sharing) | - |- |
 
 ⚠️ **Note:** 
 
