@@ -14,7 +14,9 @@ Enemies will not act until they enter your vision radius.
 
 Enemies will not stop acting unless they get to a distance away from you of over 2 + your vision radius hexagons.
 
-Experimental inventory overlay added.
+Experimental inventory added. It is not functional yet.
+
+When hovering over an inventory item its description is displayed on a superposition.
 
 ### Unimportant:
 
