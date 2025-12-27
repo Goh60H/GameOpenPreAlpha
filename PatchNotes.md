@@ -1,7 +1,8 @@
+## v0.0.2  
 
-| Version | New Features | Unimportant Changes | Bugs Fixed |
-|---------|-------|-------|-------|
-| v0.0.2  | Now the hovered character stats are on the top right corner.
+### New features
+
+Now the hovered character stats are on the top right corner.
 
 The abilities now occupy the entire width of the screen.
 
@@ -12,11 +13,6 @@ Added a vision radius.
 Enemies will not act until they enter your vision radius.
 
 Enemies will not stop acting unless they get to a distance away from you of over 2 + your vision radius hexagons.
- |   |   | 
-| v0.0.1  |  |  |   |  
-
-### New features
-
 
 ### Unimportant:
 
